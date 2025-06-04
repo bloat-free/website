@@ -1,7 +1,6 @@
 baseURL = 'https://bloat-free.com/'
 languageCode = 'en-us'
 title = 'bloat-free.com'
-theme = ''
 enableEmoji = true
 summaryLength = 70
 
