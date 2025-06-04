@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'bloat-free.com'
 enableEmoji = true
 summaryLength = 70
+# Use the custom theme
+theme = "bloat-free-theme"
 
 [pagination]
   pagerSize = 5
