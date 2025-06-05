@@ -6,4 +6,4 @@ tags: ["welcome"]
 author: "Leorium"
 ---
 
-Hello and welcome to Bloat-Free! I'm excited to launch this platform where I'll be sharing all tech-related content.
+Hello and welcome to Bloat-Free! I'm excited to launch this platform where I'll be sharing all tech-related contents.
